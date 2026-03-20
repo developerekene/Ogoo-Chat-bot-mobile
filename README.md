@@ -1,4 +1,4 @@
-Ogoo AI 🤖
+<p style={{fontSize: 50}}>Ogoo AI 🤖</p>
 A high-performance, cross-platform AI Assistant built with React Native and FastAPI.
 
 Ogoo is a sleek, responsive chat application that leverages the power of the Gemini 1.5 Flash model to provide intelligent, context-aware responses. It features a robust Python backend and a fluid mobile frontend designed for the modern user.
